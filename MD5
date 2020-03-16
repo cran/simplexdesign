@@ -1,0 +1,17 @@
+a792125ec1a8c824a00a03f3f9d87259 *DESCRIPTION
+1dcd115dd4b17bc9c695ad2020d8aa51 *LICENSE
+148f503487aad5375b5117b60087723d *NAMESPACE
+24427c2e8d590787bbf6a731992ae54a *R/MmSimplex.R
+6b7850ed002defb3d941f460cdcd712c *R/PairPlot.R
+52ee135d77e975b190764e9383b52e5c *R/paircormin.R
+ee07bde4493cdca228e4e17689f6a2f1 *R/simplexdesign.R
+59c5810ed2153f231e40cbedf1c125ac *README.md
+859dca671581c48767180e453828f88a *man/MmSimplex.Rd
+f0799aac17314cacef2c2e28d0a1ef6d *man/PairPlot.Rd
+4592e48791f1360a08308b0b01d63d04 *man/paircormin.Rd
+31e13acfdea5550d75fba0a4f555644c *man/simplexdesign.Rd
+cfcabf1ec4c94206cf55b010dc28818d *tests/testthat.R
+d5dde735af631f71ab9eca67187412c8 *tests/testthat/MmSimplex.test.output
+58ce6f6d0d5c60f4e9e0ef592064f440 *tests/testthat/paircormin.test.output
+8a98752cf2d787ec1c1d1513b028f598 *tests/testthat/test-MmSimplex.R
+3413f91233e33310ff6e875f91c72fb2 *tests/testthat/test-test-paircormin.R
